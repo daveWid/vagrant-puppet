@@ -1,4 +1,4 @@
-# Welcome to the isitSaturday API
+# Welcome to your Vagrant Development Environment
 
 ## The setup includes:
 * box:       precise64 (http://files.vagrantup.com/precise64.box)
